@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 20,
+    }
+  }
+>
+  <TextInput
+    onChangeText={[Function]}
+    placeholder="Email"
+    style={
+      Object {
+        "backgroundColor": "#ffffff",
+        "borderRadius": 8,
+        "height": 40,
+        "paddingLeft": 10,
+        "width": 320,
+      }
+    }
+    value="test@test.com"
+  />
+</View>
+`;
