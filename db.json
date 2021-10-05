@@ -1,0 +1,268 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Mobile Engineer",
+      "lastName": "bitcoin IRA",
+      "email": "engineer@bitcoinira.com",
+      "city": "Los Angeles",
+      "country": "USA",
+      "dateOfBirth": "01/01/2000",
+      "mobile": "800-245-8789",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "firstName": "Mobile Engineer",
+      "lastName": "bitcoin IRA",
+      "email": "engineer@bitcoinira.com",
+      "city": "Los Angeles",
+      "country": "USA",
+      "dateOfBirth": "01/01/2000",
+      "mobile": "800-245-8789",
+      "password": "password2"
+    },
+    {
+      "email": "Test@test.com",
+      "password": "test",
+      "firstName": "Test",
+      "lastName": "Test",
+      "city": "Test",
+      "country": "Test",
+      "dateOfBirth": "10/5/2021, 7:10:02 AM",
+      "mobile": "7897787897",
+      "id": 3
+    },
+    {
+      "email": "Test@test.com",
+      "password": "test",
+      "firstName": "Test",
+      "lastName": "Test",
+      "city": "Test",
+      "country": "Test",
+      "dateOfBirth": "10/5/20",
+      "mobile": "7897787897",
+      "id": 4
+    },
+    {
+      "email": "Test@test.com",
+      "password": "test",
+      "firstName": "Test",
+      "lastName": "Test",
+      "city": "Test",
+      "country": "Test",
+      "dateOfBirth": "10/20/2021",
+      "mobile": "323",
+      "id": 5
+    },
+    {
+      "email": "Test@test.com",
+      "password": "test",
+      "firstName": "Test",
+      "lastName": "Test",
+      "city": "Test",
+      "country": "Test",
+      "dateOfBirth": "10/20/2021",
+      "mobile": "4324",
+      "id": 6
+    },
+    {
+      "email": "Test@test.com",
+      "password": "test",
+      "firstName": "Test",
+      "lastName": "Test",
+      "city": "Test",
+      "country": "Test",
+      "dateOfBirth": "10/20/2021",
+      "mobile": "4324",
+      "id": 7
+    },
+    {
+      "email": "Test@test.com",
+      "password": "test",
+      "firstName": "Test",
+      "lastName": "Test",
+      "city": "Test",
+      "country": "Test",
+      "dateOfBirth": "10/20/2021",
+      "mobile": "4324",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "Fds",
+      "country": "Fds",
+      "dateOfBirth": "09432525",
+      "mobile": "5435",
+      "id": 9
+    },
+    {
+      "email": "Hello@h.ff",
+      "password": "f",
+      "firstName": "Fds",
+      "lastName": "Dsfds",
+      "city": "Fs",
+      "country": "Fds",
+      "dateOfBirth": "12312009",
+      "mobile": "11231231234",
+      "id": 10
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 11
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 12
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 13
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 14
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 15
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 16
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 17
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 18
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 19
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 20
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 21
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 22
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 23
+    },
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "city": "",
+      "country": "",
+      "dateOfBirth": "10041985",
+      "mobile": "18085551234",
+      "id": 24
+    }
+  ]
+}

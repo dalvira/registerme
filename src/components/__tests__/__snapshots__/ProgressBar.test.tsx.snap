@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  animated={true}
+  animationConfig={
+    Object {
+      "bounciness": 0,
+    }
+  }
+  animationType="spring"
+  indeterminate={false}
+  indeterminateAnimationDuration={1000}
+  onLayout={[Function]}
+  progress={1}
+  style={
+    Array [
+      Object {
+        "backgroundColor": undefined,
+        "borderColor": "#1ed817",
+        "borderRadius": 4,
+        "borderWidth": 1,
+        "overflow": "hidden",
+        "width": 300,
+      },
+      Object {
+        "alignSelf": "center",
+      },
+    ]
+  }
+  useNativeDriver={false}
+>
+  <View
+    collapsable={false}
+    nativeID="animatedComponent"
+    style={
+      Object {
+        "backgroundColor": "#1ed817",
+        "height": 6,
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+          Object {
+            "translateX": 0,
+          },
+          Object {
+            "scaleX": 1,
+          },
+        ],
+      }
+    }
+  />
+</View>
+`;
