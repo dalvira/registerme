@@ -8,7 +8,9 @@ cd ..
 
 npx json-server --watch db.json
 
-In a new terminal window:
+In a new terminal window each:
+
+yarn start
 
 npx react-native run-ios
 
